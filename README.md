@@ -1,11 +1,4 @@
 <h2>Oh... Hi, there! <img height=25 src="technyancolor_cat.gif"/></h2>
-<h3> My daily stats ⚡️</h3>
-<div align="center">
-  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=tahmidefaz&bg_color=182e45&color=8bbaf9&line=a3cbf0&point=38a0ff&area=true&hide_border=true" width="500px"/>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
 
 #### Languages I usually work with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,8 +22,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-##
 
 #### Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-efaz/)
+
+<h3> My daily stats ⚡️</h3>
+<div align="center">
+  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=tahmidefaz&bg_color=182e45&color=8bbaf9&line=a3cbf0&point=38a0ff&area=true&hide_border=true" width="500px"/>
+</div>
